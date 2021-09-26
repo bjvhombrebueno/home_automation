@@ -1,0 +1,20 @@
+___awdiv: CODE, 3344 0 188
+_init_display: CODE, 3152 0 192
+__stringdata: SMALLCONST, 1536 0 33
+_write_data: CODE, 4140 0 14
+_set_address_line1: CODE, 4082 0 20
+_set_address_line2: CODE, 4102 0 20
+_main: CODE, 1570 0 1582
+_write_8bit_data: CODE, 4122 0 18
+__initialization: CODE, 3816 0 44
+___lwdiv: CODE, 3532 0 108
+_init_timer0: CODE, 4000 0 30
+_init_timer1: CODE, 3966 0 34
+_write_command: CODE, 4030 0 30
+_write_4bit_data: CODE, 3732 0 84
+_allInterupts: CODE, 8 0 550
+___lwmod: CODE, 3640 0 92
+_send_msg: CODE, 3874 0 52
+_init_pwm: CODE, 3926 0 40
+_init_com: CODE, 4060 0 22
+Total: 3153
